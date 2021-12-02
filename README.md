@@ -1,4 +1,4 @@
-# 1.18mobspawn-rp
+# 1.18 Mob Spawn Light Level Resource Pack
 Minecraft 1.18 resource pack that shows whether a mob can spawn on a block or not
 
 Due to the light level change in Minecraft 1.18 on how mobs can spawn, I updated an old resource pack I was using.
